@@ -8,9 +8,9 @@ STRESS is a CSS Preprocessor that brings all the functionality you would expect 
 
 STRESS is a superset of standard CSS, adding these additonal constructs:
 
--Nothing
--At
--All
+- Nothing
+- At
+- All
 
 
 STRESS is closely related to FUSS (Fucking Ugly CSS)
