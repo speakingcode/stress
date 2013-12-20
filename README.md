@@ -11,4 +11,4 @@ STRESS is a CSS Preprocessor that brings all the functionality you would expect 
 - Superset of CSS, so the entire CSS language is supported
 - Native support in most modern browsers - no dependencies to install in order to STRESS out your web development
 - No additional syntax, keywords, or constructs - If you know CSS, you're already STRESSing
-- STRESS works seamlessly with FUSS (Fucking Ugly CSS)
+- STRESS works seamlessly with FUSS (F*%$ing Ugly CSS)
